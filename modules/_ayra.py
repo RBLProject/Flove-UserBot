@@ -16,7 +16,7 @@ REPOMSG = """
 
 RP_BUTTONS = [
     [
-        Button.url(get_string("bot_3"), "https://github.com/naya1503/Naya-Userbot"),
+        Button.url(get_string("bot_3"), "https://github.com/RBLProject/Flove-UserBot"),
     ],
     [Button.url("Support Group", "t.me/kynansupport")],
 ]
