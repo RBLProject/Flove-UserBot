@@ -11,14 +11,14 @@ from . import LOG_CHANNEL, Button, asst, ayra_cmd, eor, get_string
 REPOMSG = """
 ◈ **ᴀʏʀᴀ ꭙ ᴜꜱᴇʀʙᴏᴛ​** ◈\n
 ◈ Repo - [Click Here](https://github.com/RBLProject/Flove-UserBot)
-◈ Support - @kynansupport
+◈ Support - https://t.me/+EM7czI00c9ZhN2Jl
 """
 
 RP_BUTTONS = [
     [
         Button.url(get_string("bot_3"), "https://github.com/RBLProject/Flove-UserBot"),
     ],
-    [Button.url("Support Group", "t.me/kynansupport")],
+    [Button.url("Support Group", "https://t.me/+EM7czI00c9ZhN2Jl")],
 ]
 
 AYSTRING = """🎇 **Thanks for Deploying Flove-UserBot**
